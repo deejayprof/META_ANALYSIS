@@ -1,0 +1,529 @@
+metabolite,SampleID,flux,description
+h_m,SRR19820313,247.1524775,proton
+mqn8_m,SRR19820313,0.400485727,Menaquinone 8
+h2s_m,SRR19820313,0.796166424,Hydrogen sulfide
+so4_m,SRR19820313,1.601359463,sulfate
+co2_m,SRR19820313,2.291528552,carbon dioxide
+tma_m,SRR19820313,2.639255279,trimethylamine
+mqn7_m,SRR19820313,0.648754773,Menaquinone 7
+tmao_m,SRR19820313,1.00E-06,Trimethylamine N-oxide
+ppa_m,SRR19820313,0.332892889,propionate
+h2o_m,SRR19820313,5.456517685,Water
+so3_m,SRR19820313,0.220578695,Sulfite
+tsul_m,SRR19820313,0.019462826,thiosulfate(2-)
+pac_m,SRR19820313,1.00E-06,phenylacetate
+4hbz_m,SRR19820313,1.00E-06,4-hydroxybenzoate
+o2_m,SRR19820313,1.00E-06,O2
+btd_RR_m,SRR19820313,1.00E-06,R_R__2_3_Butanediol
+fuc_L_m,SRR19820313,1.00E-06,L-fucose
+phenol_m,SRR19820313,1.00E-06,Phenol
+isobut_m,SRR19820313,1.00E-06,"Isobutyrate, 2-Methylpropanoate"
+4hphac_m,SRR19820313,1.00E-06,4-hydroxyphenylacetate
+cit_m,SRR19820313,1.00E-06,Citrate
+4hoxpacd_m,SRR19820313,1.00E-06,(4-hydroxyphenyl)acetaldehyde
+isocapr_m,SRR19820313,1.00E-06,Isocaproate
+nac_m,SRR19820313,0.095375572,Nicotinate
+2obut_m,SRR19820313,1.00E-06,2-Oxobutanoate
+phpyr_m,SRR19820313,1.00E-06,keto-phenylpyruvate
+glcn_m,SRR19820313,1.00E-06,D-gluconate
+ttdca_m,SRR19820313,1.00E-06,tetradecanoate (n-C14:0)
+ribflv_m,SRR19820313,1.00E-06,Riboflavin
+ch4s_m,SRR19820313,1.00E-06,Methanethiol
+ocdca_m,SRR19820313,1.00E-06,octadecanoate (n-C18:0)
+hdca_m,SRR19820313,1.00E-06,Hexadecanoate (n-C16:0)
+xan_m,SRR19820313,1.00E-06,Xanthine
+ppi_m,SRR19820313,0.000474546,Diphosphate
+2hyoxplac_m,SRR19820313,1.00E-06,2-Hydroxyphenylacetate
+isoval_m,SRR19820313,1.00E-06,"Isovalerate, 3-Methylbutanoate"
+hxan_m,SRR19820313,1.00E-06,Hypoxanthine
+thymd_m,SRR19820313,1.00E-06,Thymidine
+apio_D_m,SRR19820313,1.00E-06,D-Apiose (rare sugar in rhamnogalacturonan II)
+acerA_m,SRR19820313,1.00E-06,Aceric acid (3-C-carboxy-5-deoxy-l-xylose) (rare sugar in rhamnogalacturonan II)
+kdo_m,SRR19820313,1.00E-06,3-Deoxy-D-manno-2-octulosonate
+3ddlhept_m,SRR19820313,1.00E-06,3-deoxy-d-lyxo-heptulosaric acid (rare sugar in rhamnogalacturonan II)
+2omfuc_m,SRR19820313,1.00E-06,2-o-methylfucose (rare sugar in rhamnogalacturonan II)
+2omxyl_m,SRR19820313,1.00E-06,2-O-methylxylose (rare sugar in rhamnogalacturonan II)
+h_m,SRR19820361,27.51265155,proton
+mqn8_m,SRR19820361,79.14037129,Menaquinone 8
+h2s_m,SRR19820361,36.82738978,Hydrogen sulfide
+so4_m,SRR19820361,30.66686151,sulfate
+co2_m,SRR19820361,55.18499989,carbon dioxide
+tma_m,SRR19820361,46.10005198,trimethylamine
+mqn7_m,SRR19820361,6.053777798,Menaquinone 7
+tmao_m,SRR19820361,21.48122196,Trimethylamine N-oxide
+ppa_m,SRR19820361,8.837869458,propionate
+h2o_m,SRR19820361,1.00E-06,Water
+so3_m,SRR19820361,1.00E-06,Sulfite
+tsul_m,SRR19820361,1.00E-06,thiosulfate(2-)
+pac_m,SRR19820361,2.410712776,phenylacetate
+4hbz_m,SRR19820361,1.00E-06,4-hydroxybenzoate
+o2_m,SRR19820361,1.00E-06,O2
+btd_RR_m,SRR19820361,0.53850081,R_R__2_3_Butanediol
+fuc_L_m,SRR19820361,1.00E-06,L-fucose
+phenol_m,SRR19820361,1.00E-06,Phenol
+isobut_m,SRR19820361,1.00E-06,"Isobutyrate, 2-Methylpropanoate"
+4hphac_m,SRR19820361,1.00E-06,4-hydroxyphenylacetate
+cit_m,SRR19820361,1.00E-06,Citrate
+4hoxpacd_m,SRR19820361,0.290078475,(4-hydroxyphenyl)acetaldehyde
+isocapr_m,SRR19820361,0.342764932,Isocaproate
+nac_m,SRR19820361,0.095110081,Nicotinate
+2obut_m,SRR19820361,1.00E-06,2-Oxobutanoate
+phpyr_m,SRR19820361,1.00E-06,keto-phenylpyruvate
+glcn_m,SRR19820361,1.00E-06,D-gluconate
+ttdca_m,SRR19820361,1.00E-06,tetradecanoate (n-C14:0)
+ribflv_m,SRR19820361,1.00E-06,Riboflavin
+ch4s_m,SRR19820361,0.109301772,Methanethiol
+ocdca_m,SRR19820361,1.00E-06,octadecanoate (n-C18:0)
+hdca_m,SRR19820361,1.00E-06,Hexadecanoate (n-C16:0)
+xan_m,SRR19820361,1.00E-06,Xanthine
+ppi_m,SRR19820361,0.000106486,Diphosphate
+2hyoxplac_m,SRR19820361,1.00E-06,2-Hydroxyphenylacetate
+isoval_m,SRR19820361,1.00E-06,"Isovalerate, 3-Methylbutanoate"
+hxan_m,SRR19820361,1.00E-06,Hypoxanthine
+thymd_m,SRR19820361,1.00E-06,Thymidine
+apio_D_m,SRR19820361,1.00E-06,D-Apiose (rare sugar in rhamnogalacturonan II)
+acerA_m,SRR19820361,1.00E-06,Aceric acid (3-C-carboxy-5-deoxy-l-xylose) (rare sugar in rhamnogalacturonan II)
+kdo_m,SRR19820361,1.00E-06,3-Deoxy-D-manno-2-octulosonate
+3ddlhept_m,SRR19820361,1.00E-06,3-deoxy-d-lyxo-heptulosaric acid (rare sugar in rhamnogalacturonan II)
+2omfuc_m,SRR19820361,1.00E-06,2-o-methylfucose (rare sugar in rhamnogalacturonan II)
+2omxyl_m,SRR19820361,1.00E-06,2-O-methylxylose (rare sugar in rhamnogalacturonan II)
+h_m,SRR19820312,1.00E-06,proton
+mqn8_m,SRR19820312,1.00E-06,Menaquinone 8
+h2s_m,SRR19820312,5.071327418,Hydrogen sulfide
+so4_m,SRR19820312,16.89308774,sulfate
+co2_m,SRR19820312,7.315546541,carbon dioxide
+tma_m,SRR19820312,23.04208013,trimethylamine
+mqn7_m,SRR19820312,40.99913358,Menaquinone 7
+tmao_m,SRR19820312,1.00E-06,Trimethylamine N-oxide
+ppa_m,SRR19820312,2.612602244,propionate
+h2o_m,SRR19820312,1.00E-06,Water
+so3_m,SRR19820312,1.00E-06,Sulfite
+tsul_m,SRR19820312,0.629944802,thiosulfate(2-)
+pac_m,SRR19820312,0.418567187,phenylacetate
+4hbz_m,SRR19820312,1.00E-06,4-hydroxybenzoate
+o2_m,SRR19820312,1.00E-06,O2
+btd_RR_m,SRR19820312,1.00E-06,R_R__2_3_Butanediol
+fuc_L_m,SRR19820312,1.00E-06,L-fucose
+phenol_m,SRR19820312,1.00E-06,Phenol
+isobut_m,SRR19820312,0.577135602,"Isobutyrate, 2-Methylpropanoate"
+4hphac_m,SRR19820312,0.33697969,4-hydroxyphenylacetate
+cit_m,SRR19820312,0.419195977,Citrate
+4hoxpacd_m,SRR19820312,0.032509753,(4-hydroxyphenyl)acetaldehyde
+isocapr_m,SRR19820312,0.295019722,Isocaproate
+nac_m,SRR19820312,0.19485357,Nicotinate
+2obut_m,SRR19820312,1.00E-06,2-Oxobutanoate
+phpyr_m,SRR19820312,1.00E-06,keto-phenylpyruvate
+glcn_m,SRR19820312,1.00E-06,D-gluconate
+ttdca_m,SRR19820312,1.00E-06,tetradecanoate (n-C14:0)
+ribflv_m,SRR19820312,0.06846411,Riboflavin
+ch4s_m,SRR19820312,1.00E-06,Methanethiol
+ocdca_m,SRR19820312,0.079477985,octadecanoate (n-C18:0)
+hdca_m,SRR19820312,1.00E-06,Hexadecanoate (n-C16:0)
+xan_m,SRR19820312,1.00E-06,Xanthine
+ppi_m,SRR19820312,1.32E-06,Diphosphate
+2hyoxplac_m,SRR19820312,0.017503192,2-Hydroxyphenylacetate
+isoval_m,SRR19820312,0.018721224,"Isovalerate, 3-Methylbutanoate"
+hxan_m,SRR19820312,1.00E-06,Hypoxanthine
+thymd_m,SRR19820312,1.00E-06,Thymidine
+apio_D_m,SRR19820312,1.00E-06,D-Apiose (rare sugar in rhamnogalacturonan II)
+acerA_m,SRR19820312,1.00E-06,Aceric acid (3-C-carboxy-5-deoxy-l-xylose) (rare sugar in rhamnogalacturonan II)
+kdo_m,SRR19820312,1.00E-06,3-Deoxy-D-manno-2-octulosonate
+3ddlhept_m,SRR19820312,1.00E-06,3-deoxy-d-lyxo-heptulosaric acid (rare sugar in rhamnogalacturonan II)
+2omfuc_m,SRR19820312,1.00E-06,2-o-methylfucose (rare sugar in rhamnogalacturonan II)
+2omxyl_m,SRR19820312,1.00E-06,2-O-methylxylose (rare sugar in rhamnogalacturonan II)
+h_m,SRR19820311,16.98656457,proton
+mqn8_m,SRR19820311,8.363374727,Menaquinone 8
+h2s_m,SRR19820311,1.00E-06,Hydrogen sulfide
+so4_m,SRR19820311,1.758092578,sulfate
+co2_m,SRR19820311,1.018125742,carbon dioxide
+tma_m,SRR19820311,1.00E-06,trimethylamine
+mqn7_m,SRR19820311,0.767406061,Menaquinone 7
+tmao_m,SRR19820311,2.302290779,Trimethylamine N-oxide
+ppa_m,SRR19820311,1.00E-06,propionate
+h2o_m,SRR19820311,1.00E-06,Water
+so3_m,SRR19820311,1.00E-06,Sulfite
+tsul_m,SRR19820311,0.284374279,thiosulfate(2-)
+pac_m,SRR19820311,1.00E-06,phenylacetate
+4hbz_m,SRR19820311,1.00E-06,4-hydroxybenzoate
+o2_m,SRR19820311,0.697956528,O2
+btd_RR_m,SRR19820311,1.00E-06,R_R__2_3_Butanediol
+fuc_L_m,SRR19820311,1.00E-06,L-fucose
+phenol_m,SRR19820311,1.00E-06,Phenol
+isobut_m,SRR19820311,1.00E-06,"Isobutyrate, 2-Methylpropanoate"
+4hphac_m,SRR19820311,1.00E-06,4-hydroxyphenylacetate
+cit_m,SRR19820311,1.00E-06,Citrate
+4hoxpacd_m,SRR19820311,1.00E-06,(4-hydroxyphenyl)acetaldehyde
+isocapr_m,SRR19820311,1.00E-06,Isocaproate
+nac_m,SRR19820311,0.098898841,Nicotinate
+2obut_m,SRR19820311,1.00E-06,2-Oxobutanoate
+phpyr_m,SRR19820311,1.00E-06,keto-phenylpyruvate
+glcn_m,SRR19820311,1.00E-06,D-gluconate
+ttdca_m,SRR19820311,1.00E-06,tetradecanoate (n-C14:0)
+ribflv_m,SRR19820311,1.00E-06,Riboflavin
+ch4s_m,SRR19820311,1.00E-06,Methanethiol
+ocdca_m,SRR19820311,1.00E-06,octadecanoate (n-C18:0)
+hdca_m,SRR19820311,1.00E-06,Hexadecanoate (n-C16:0)
+xan_m,SRR19820311,1.00E-06,Xanthine
+ppi_m,SRR19820311,3.76E-05,Diphosphate
+2hyoxplac_m,SRR19820311,1.00E-06,2-Hydroxyphenylacetate
+isoval_m,SRR19820311,1.00E-06,"Isovalerate, 3-Methylbutanoate"
+hxan_m,SRR19820311,1.00E-06,Hypoxanthine
+thymd_m,SRR19820311,1.00E-06,Thymidine
+apio_D_m,SRR19820311,0.000800961,D-Apiose (rare sugar in rhamnogalacturonan II)
+acerA_m,SRR19820311,0.000266987,Aceric acid (3-C-carboxy-5-deoxy-l-xylose) (rare sugar in rhamnogalacturonan II)
+kdo_m,SRR19820311,0.000533974,3-Deoxy-D-manno-2-octulosonate
+3ddlhept_m,SRR19820311,0.000533974,3-deoxy-d-lyxo-heptulosaric acid (rare sugar in rhamnogalacturonan II)
+2omfuc_m,SRR19820311,0.000533974,2-o-methylfucose (rare sugar in rhamnogalacturonan II)
+2omxyl_m,SRR19820311,0.000533974,2-O-methylxylose (rare sugar in rhamnogalacturonan II)
+h_m,SRR19820364,27.92671533,proton
+mqn8_m,SRR19820364,12.13480496,Menaquinone 8
+h2s_m,SRR19820364,1.00E-06,Hydrogen sulfide
+so4_m,SRR19820364,1.545890703,sulfate
+co2_m,SRR19820364,1.00E-06,carbon dioxide
+tma_m,SRR19820364,1.00E-06,trimethylamine
+mqn7_m,SRR19820364,1.00E-06,Menaquinone 7
+tmao_m,SRR19820364,1.673928563,Trimethylamine N-oxide
+ppa_m,SRR19820364,1.00E-06,propionate
+h2o_m,SRR19820364,0.268221284,Water
+so3_m,SRR19820364,0.145845559,Sulfite
+tsul_m,SRR19820364,1.00E-06,thiosulfate(2-)
+pac_m,SRR19820364,1.00E-06,phenylacetate
+4hbz_m,SRR19820364,1.00E-06,4-hydroxybenzoate
+o2_m,SRR19820364,0.387884219,O2
+btd_RR_m,SRR19820364,1.00E-06,R_R__2_3_Butanediol
+fuc_L_m,SRR19820364,1.00E-06,L-fucose
+phenol_m,SRR19820364,1.00E-06,Phenol
+isobut_m,SRR19820364,1.00E-06,"Isobutyrate, 2-Methylpropanoate"
+4hphac_m,SRR19820364,1.00E-06,4-hydroxyphenylacetate
+cit_m,SRR19820364,1.00E-06,Citrate
+4hoxpacd_m,SRR19820364,1.00E-06,(4-hydroxyphenyl)acetaldehyde
+isocapr_m,SRR19820364,1.00E-06,Isocaproate
+nac_m,SRR19820364,0.096262556,Nicotinate
+2obut_m,SRR19820364,1.00E-06,2-Oxobutanoate
+phpyr_m,SRR19820364,1.00E-06,keto-phenylpyruvate
+glcn_m,SRR19820364,1.00E-06,D-gluconate
+ttdca_m,SRR19820364,1.00E-06,tetradecanoate (n-C14:0)
+ribflv_m,SRR19820364,1.00E-06,Riboflavin
+ch4s_m,SRR19820364,1.00E-06,Methanethiol
+ocdca_m,SRR19820364,1.00E-06,octadecanoate (n-C18:0)
+hdca_m,SRR19820364,1.00E-06,Hexadecanoate (n-C16:0)
+xan_m,SRR19820364,1.00E-06,Xanthine
+ppi_m,SRR19820364,0.017728688,Diphosphate
+2hyoxplac_m,SRR19820364,1.00E-06,2-Hydroxyphenylacetate
+isoval_m,SRR19820364,1.00E-06,"Isovalerate, 3-Methylbutanoate"
+hxan_m,SRR19820364,1.00E-06,Hypoxanthine
+thymd_m,SRR19820364,1.00E-06,Thymidine
+apio_D_m,SRR19820364,0.000800961,D-Apiose (rare sugar in rhamnogalacturonan II)
+acerA_m,SRR19820364,0.000266987,Aceric acid (3-C-carboxy-5-deoxy-l-xylose) (rare sugar in rhamnogalacturonan II)
+kdo_m,SRR19820364,0.000533974,3-Deoxy-D-manno-2-octulosonate
+3ddlhept_m,SRR19820364,0.000533974,3-deoxy-d-lyxo-heptulosaric acid (rare sugar in rhamnogalacturonan II)
+2omfuc_m,SRR19820364,0.000533974,2-o-methylfucose (rare sugar in rhamnogalacturonan II)
+2omxyl_m,SRR19820364,0.000533974,2-O-methylxylose (rare sugar in rhamnogalacturonan II)
+h_m,SRR19820363,1.00E-06,proton
+mqn8_m,SRR19820363,17.63544276,Menaquinone 8
+h2s_m,SRR19820363,0.477970884,Hydrogen sulfide
+so4_m,SRR19820363,3.329602704,sulfate
+co2_m,SRR19820363,1.00E-06,carbon dioxide
+tma_m,SRR19820363,1.00E-06,trimethylamine
+mqn7_m,SRR19820363,0.722698415,Menaquinone 7
+tmao_m,SRR19820363,3.787410975,Trimethylamine N-oxide
+ppa_m,SRR19820363,1.00E-06,propionate
+h2o_m,SRR19820363,0.700325138,Water
+so3_m,SRR19820363,1.00E-06,Sulfite
+tsul_m,SRR19820363,1.00E-06,thiosulfate(2-)
+pac_m,SRR19820363,1.00E-06,phenylacetate
+4hbz_m,SRR19820363,1.00E-06,4-hydroxybenzoate
+o2_m,SRR19820363,1.00E-06,O2
+btd_RR_m,SRR19820363,0.596983076,R_R__2_3_Butanediol
+fuc_L_m,SRR19820363,1.00E-06,L-fucose
+phenol_m,SRR19820363,1.00E-06,Phenol
+isobut_m,SRR19820363,1.00E-06,"Isobutyrate, 2-Methylpropanoate"
+4hphac_m,SRR19820363,1.00E-06,4-hydroxyphenylacetate
+cit_m,SRR19820363,1.00E-06,Citrate
+4hoxpacd_m,SRR19820363,1.00E-06,(4-hydroxyphenyl)acetaldehyde
+isocapr_m,SRR19820363,1.00E-06,Isocaproate
+nac_m,SRR19820363,0.095360909,Nicotinate
+2obut_m,SRR19820363,1.00E-06,2-Oxobutanoate
+phpyr_m,SRR19820363,1.00E-06,keto-phenylpyruvate
+glcn_m,SRR19820363,1.00E-06,D-gluconate
+ttdca_m,SRR19820363,1.00E-06,tetradecanoate (n-C14:0)
+ribflv_m,SRR19820363,1.00E-06,Riboflavin
+ch4s_m,SRR19820363,1.00E-06,Methanethiol
+ocdca_m,SRR19820363,1.00E-06,octadecanoate (n-C18:0)
+hdca_m,SRR19820363,1.00E-06,Hexadecanoate (n-C16:0)
+xan_m,SRR19820363,1.00E-06,Xanthine
+ppi_m,SRR19820363,0.000602062,Diphosphate
+2hyoxplac_m,SRR19820363,1.00E-06,2-Hydroxyphenylacetate
+isoval_m,SRR19820363,1.00E-06,"Isovalerate, 3-Methylbutanoate"
+hxan_m,SRR19820363,1.00E-06,Hypoxanthine
+thymd_m,SRR19820363,1.00E-06,Thymidine
+apio_D_m,SRR19820363,1.00E-06,D-Apiose (rare sugar in rhamnogalacturonan II)
+acerA_m,SRR19820363,1.00E-06,Aceric acid (3-C-carboxy-5-deoxy-l-xylose) (rare sugar in rhamnogalacturonan II)
+kdo_m,SRR19820363,1.00E-06,3-Deoxy-D-manno-2-octulosonate
+3ddlhept_m,SRR19820363,1.00E-06,3-deoxy-d-lyxo-heptulosaric acid (rare sugar in rhamnogalacturonan II)
+2omfuc_m,SRR19820363,1.00E-06,2-o-methylfucose (rare sugar in rhamnogalacturonan II)
+2omxyl_m,SRR19820363,1.00E-06,2-O-methylxylose (rare sugar in rhamnogalacturonan II)
+h_m,SRR19820341,1.00E-06,proton
+mqn8_m,SRR19820341,1.00E-06,Menaquinone 8
+h2s_m,SRR19820341,0.75685653,Hydrogen sulfide
+so4_m,SRR19820341,4.82531106,sulfate
+co2_m,SRR19820341,1.00E-06,carbon dioxide
+tma_m,SRR19820341,2.8909279,trimethylamine
+mqn7_m,SRR19820341,6.157005093,Menaquinone 7
+tmao_m,SRR19820341,2.5717821,Trimethylamine N-oxide
+ppa_m,SRR19820341,1.00E-06,propionate
+h2o_m,SRR19820341,0.282634494,Water
+so3_m,SRR19820341,1.00E-06,Sulfite
+tsul_m,SRR19820341,1.00E-06,thiosulfate(2-)
+pac_m,SRR19820341,1.00E-06,phenylacetate
+4hbz_m,SRR19820341,1.00E-06,4-hydroxybenzoate
+o2_m,SRR19820341,1.00E-06,O2
+btd_RR_m,SRR19820341,1.00E-06,R_R__2_3_Butanediol
+fuc_L_m,SRR19820341,0.66118963,L-fucose
+phenol_m,SRR19820341,0.471201976,Phenol
+isobut_m,SRR19820341,1.00E-06,"Isobutyrate, 2-Methylpropanoate"
+4hphac_m,SRR19820341,1.00E-06,4-hydroxyphenylacetate
+cit_m,SRR19820341,1.00E-06,Citrate
+4hoxpacd_m,SRR19820341,1.00E-06,(4-hydroxyphenyl)acetaldehyde
+isocapr_m,SRR19820341,1.00E-06,Isocaproate
+nac_m,SRR19820341,0.095704758,Nicotinate
+2obut_m,SRR19820341,1.00E-06,2-Oxobutanoate
+phpyr_m,SRR19820341,1.00E-06,keto-phenylpyruvate
+glcn_m,SRR19820341,1.00E-06,D-gluconate
+ttdca_m,SRR19820341,1.00E-06,tetradecanoate (n-C14:0)
+ribflv_m,SRR19820341,0.059998605,Riboflavin
+ch4s_m,SRR19820341,1.00E-06,Methanethiol
+ocdca_m,SRR19820341,1.00E-06,octadecanoate (n-C18:0)
+hdca_m,SRR19820341,1.00E-06,Hexadecanoate (n-C16:0)
+xan_m,SRR19820341,1.00E-06,Xanthine
+ppi_m,SRR19820341,0.002195063,Diphosphate
+2hyoxplac_m,SRR19820341,1.00E-06,2-Hydroxyphenylacetate
+isoval_m,SRR19820341,1.00E-06,"Isovalerate, 3-Methylbutanoate"
+hxan_m,SRR19820341,1.00E-06,Hypoxanthine
+thymd_m,SRR19820341,1.00E-06,Thymidine
+apio_D_m,SRR19820341,1.00E-06,D-Apiose (rare sugar in rhamnogalacturonan II)
+acerA_m,SRR19820341,1.00E-06,Aceric acid (3-C-carboxy-5-deoxy-l-xylose) (rare sugar in rhamnogalacturonan II)
+kdo_m,SRR19820341,1.00E-06,3-Deoxy-D-manno-2-octulosonate
+3ddlhept_m,SRR19820341,1.00E-06,3-deoxy-d-lyxo-heptulosaric acid (rare sugar in rhamnogalacturonan II)
+2omfuc_m,SRR19820341,1.00E-06,2-o-methylfucose (rare sugar in rhamnogalacturonan II)
+2omxyl_m,SRR19820341,1.00E-06,2-O-methylxylose (rare sugar in rhamnogalacturonan II)
+h_m,SRR19820319,1.00E-06,proton
+mqn8_m,SRR19820319,1.00E-06,Menaquinone 8
+h2s_m,SRR19820319,1.00E-06,Hydrogen sulfide
+so4_m,SRR19820319,2.110517015,sulfate
+co2_m,SRR19820319,1.00E-06,carbon dioxide
+tma_m,SRR19820319,1.00E-06,trimethylamine
+mqn7_m,SRR19820319,2.847977511,Menaquinone 7
+tmao_m,SRR19820319,3.350564809,Trimethylamine N-oxide
+ppa_m,SRR19820319,1.00E-06,propionate
+h2o_m,SRR19820319,1.06131097,Water
+so3_m,SRR19820319,1.00E-06,Sulfite
+tsul_m,SRR19820319,0.687213396,thiosulfate(2-)
+pac_m,SRR19820319,1.00E-06,phenylacetate
+4hbz_m,SRR19820319,1.00E-06,4-hydroxybenzoate
+o2_m,SRR19820319,1.00E-06,O2
+btd_RR_m,SRR19820319,1.00E-06,R_R__2_3_Butanediol
+fuc_L_m,SRR19820319,0.201871026,L-fucose
+phenol_m,SRR19820319,1.00E-06,Phenol
+isobut_m,SRR19820319,1.00E-06,"Isobutyrate, 2-Methylpropanoate"
+4hphac_m,SRR19820319,1.00E-06,4-hydroxyphenylacetate
+cit_m,SRR19820319,1.00E-06,Citrate
+4hoxpacd_m,SRR19820319,1.00E-06,(4-hydroxyphenyl)acetaldehyde
+isocapr_m,SRR19820319,1.00E-06,Isocaproate
+nac_m,SRR19820319,0.095244299,Nicotinate
+2obut_m,SRR19820319,1.00E-06,2-Oxobutanoate
+phpyr_m,SRR19820319,1.00E-06,keto-phenylpyruvate
+glcn_m,SRR19820319,0.12106406,D-gluconate
+ttdca_m,SRR19820319,1.00E-06,tetradecanoate (n-C14:0)
+ribflv_m,SRR19820319,1.00E-06,Riboflavin
+ch4s_m,SRR19820319,1.00E-06,Methanethiol
+ocdca_m,SRR19820319,1.00E-06,octadecanoate (n-C18:0)
+hdca_m,SRR19820319,0.049762831,Hexadecanoate (n-C16:0)
+xan_m,SRR19820319,0.078310721,Xanthine
+ppi_m,SRR19820319,0.00017476,Diphosphate
+2hyoxplac_m,SRR19820319,1.00E-06,2-Hydroxyphenylacetate
+isoval_m,SRR19820319,1.00E-06,"Isovalerate, 3-Methylbutanoate"
+hxan_m,SRR19820319,1.00E-06,Hypoxanthine
+thymd_m,SRR19820319,1.00E-06,Thymidine
+apio_D_m,SRR19820319,1.00E-06,D-Apiose (rare sugar in rhamnogalacturonan II)
+acerA_m,SRR19820319,1.00E-06,Aceric acid (3-C-carboxy-5-deoxy-l-xylose) (rare sugar in rhamnogalacturonan II)
+kdo_m,SRR19820319,1.00E-06,3-Deoxy-D-manno-2-octulosonate
+3ddlhept_m,SRR19820319,1.00E-06,3-deoxy-d-lyxo-heptulosaric acid (rare sugar in rhamnogalacturonan II)
+2omfuc_m,SRR19820319,1.00E-06,2-o-methylfucose (rare sugar in rhamnogalacturonan II)
+2omxyl_m,SRR19820319,1.00E-06,2-O-methylxylose (rare sugar in rhamnogalacturonan II)
+h_m,SRR19820362,3.899553454,proton
+mqn8_m,SRR19820362,1.589032588,Menaquinone 8
+h2s_m,SRR19820362,1.00E-06,Hydrogen sulfide
+so4_m,SRR19820362,1.562232153,sulfate
+co2_m,SRR19820362,1.105556662,carbon dioxide
+tma_m,SRR19820362,1.00E-06,trimethylamine
+mqn7_m,SRR19820362,2.03641707,Menaquinone 7
+tmao_m,SRR19820362,3.841574372,Trimethylamine N-oxide
+ppa_m,SRR19820362,1.00E-06,propionate
+h2o_m,SRR19820362,1.00E-06,Water
+so3_m,SRR19820362,1.00E-06,Sulfite
+tsul_m,SRR19820362,1.151581815,thiosulfate(2-)
+pac_m,SRR19820362,1.00E-06,phenylacetate
+4hbz_m,SRR19820362,1.00E-06,4-hydroxybenzoate
+o2_m,SRR19820362,1.00E-06,O2
+btd_RR_m,SRR19820362,1.00E-06,R_R__2_3_Butanediol
+fuc_L_m,SRR19820362,1.00E-06,L-fucose
+phenol_m,SRR19820362,1.00E-06,Phenol
+isobut_m,SRR19820362,1.00E-06,"Isobutyrate, 2-Methylpropanoate"
+4hphac_m,SRR19820362,1.00E-06,4-hydroxyphenylacetate
+cit_m,SRR19820362,1.00E-06,Citrate
+4hoxpacd_m,SRR19820362,1.00E-06,(4-hydroxyphenyl)acetaldehyde
+isocapr_m,SRR19820362,1.00E-06,Isocaproate
+nac_m,SRR19820362,0.098029447,Nicotinate
+2obut_m,SRR19820362,1.00E-06,2-Oxobutanoate
+phpyr_m,SRR19820362,1.00E-06,keto-phenylpyruvate
+glcn_m,SRR19820362,0.158218194,D-gluconate
+ttdca_m,SRR19820362,1.00E-06,tetradecanoate (n-C14:0)
+ribflv_m,SRR19820362,0.000591078,Riboflavin
+ch4s_m,SRR19820362,1.00E-06,Methanethiol
+ocdca_m,SRR19820362,1.00E-06,octadecanoate (n-C18:0)
+hdca_m,SRR19820362,1.00E-06,Hexadecanoate (n-C16:0)
+xan_m,SRR19820362,1.00E-06,Xanthine
+ppi_m,SRR19820362,0.038855496,Diphosphate
+2hyoxplac_m,SRR19820362,1.00E-06,2-Hydroxyphenylacetate
+isoval_m,SRR19820362,1.00E-06,"Isovalerate, 3-Methylbutanoate"
+hxan_m,SRR19820362,1.00E-06,Hypoxanthine
+thymd_m,SRR19820362,1.00E-06,Thymidine
+apio_D_m,SRR19820362,1.00E-06,D-Apiose (rare sugar in rhamnogalacturonan II)
+acerA_m,SRR19820362,1.00E-06,Aceric acid (3-C-carboxy-5-deoxy-l-xylose) (rare sugar in rhamnogalacturonan II)
+kdo_m,SRR19820362,1.00E-06,3-Deoxy-D-manno-2-octulosonate
+3ddlhept_m,SRR19820362,1.00E-06,3-deoxy-d-lyxo-heptulosaric acid (rare sugar in rhamnogalacturonan II)
+2omfuc_m,SRR19820362,1.00E-06,2-o-methylfucose (rare sugar in rhamnogalacturonan II)
+2omxyl_m,SRR19820362,1.00E-06,2-O-methylxylose (rare sugar in rhamnogalacturonan II)
+h_m,SRR19820314,74.7620504,proton
+mqn8_m,SRR19820314,0.638820654,Menaquinone 8
+h2s_m,SRR19820314,1.00E-06,Hydrogen sulfide
+so4_m,SRR19820314,2.774721451,sulfate
+co2_m,SRR19820314,1.00E-06,carbon dioxide
+tma_m,SRR19820314,1.00E-06,trimethylamine
+mqn7_m,SRR19820314,0.743129658,Menaquinone 7
+tmao_m,SRR19820314,3.747980614,Trimethylamine N-oxide
+ppa_m,SRR19820314,1.00E-06,propionate
+h2o_m,SRR19820314,4.089333549,Water
+so3_m,SRR19820314,1.00E-06,Sulfite
+tsul_m,SRR19820314,0.511485898,thiosulfate(2-)
+pac_m,SRR19820314,1.00E-06,phenylacetate
+4hbz_m,SRR19820314,1.00E-06,4-hydroxybenzoate
+o2_m,SRR19820314,1.00E-06,O2
+btd_RR_m,SRR19820314,1.00E-06,R_R__2_3_Butanediol
+fuc_L_m,SRR19820314,1.00E-06,L-fucose
+phenol_m,SRR19820314,1.00E-06,Phenol
+isobut_m,SRR19820314,1.00E-06,"Isobutyrate, 2-Methylpropanoate"
+4hphac_m,SRR19820314,1.00E-06,4-hydroxyphenylacetate
+cit_m,SRR19820314,1.00E-06,Citrate
+4hoxpacd_m,SRR19820314,1.00E-06,(4-hydroxyphenyl)acetaldehyde
+isocapr_m,SRR19820314,1.00E-06,Isocaproate
+nac_m,SRR19820314,0.09495269,Nicotinate
+2obut_m,SRR19820314,1.00E-06,2-Oxobutanoate
+phpyr_m,SRR19820314,1.00E-06,keto-phenylpyruvate
+glcn_m,SRR19820314,1.00E-06,D-gluconate
+ttdca_m,SRR19820314,0.150749695,tetradecanoate (n-C14:0)
+ribflv_m,SRR19820314,0.021072713,Riboflavin
+ch4s_m,SRR19820314,1.00E-06,Methanethiol
+ocdca_m,SRR19820314,1.00E-06,octadecanoate (n-C18:0)
+hdca_m,SRR19820314,1.00E-06,Hexadecanoate (n-C16:0)
+xan_m,SRR19820314,1.00E-06,Xanthine
+ppi_m,SRR19820314,0.000198736,Diphosphate
+2hyoxplac_m,SRR19820314,1.00E-06,2-Hydroxyphenylacetate
+isoval_m,SRR19820314,1.00E-06,"Isovalerate, 3-Methylbutanoate"
+hxan_m,SRR19820314,1.00E-06,Hypoxanthine
+thymd_m,SRR19820314,1.00E-06,Thymidine
+apio_D_m,SRR19820314,1.00E-06,D-Apiose (rare sugar in rhamnogalacturonan II)
+acerA_m,SRR19820314,1.00E-06,Aceric acid (3-C-carboxy-5-deoxy-l-xylose) (rare sugar in rhamnogalacturonan II)
+kdo_m,SRR19820314,1.00E-06,3-Deoxy-D-manno-2-octulosonate
+3ddlhept_m,SRR19820314,1.00E-06,3-deoxy-d-lyxo-heptulosaric acid (rare sugar in rhamnogalacturonan II)
+2omfuc_m,SRR19820314,1.00E-06,2-o-methylfucose (rare sugar in rhamnogalacturonan II)
+2omxyl_m,SRR19820314,1.00E-06,2-O-methylxylose (rare sugar in rhamnogalacturonan II)
+h_m,SRR19820330,41.85168997,proton
+mqn8_m,SRR19820330,9.220367985,Menaquinone 8
+h2s_m,SRR19820330,0.649729859,Hydrogen sulfide
+so4_m,SRR19820330,0.913740846,sulfate
+co2_m,SRR19820330,1.00E-06,carbon dioxide
+tma_m,SRR19820330,1.00E-06,trimethylamine
+mqn7_m,SRR19820330,5.736369162,Menaquinone 7
+tmao_m,SRR19820330,5.276800592,Trimethylamine N-oxide
+ppa_m,SRR19820330,1.00E-06,propionate
+h2o_m,SRR19820330,2.246011749,Water
+so3_m,SRR19820330,3.831349627,Sulfite
+tsul_m,SRR19820330,1.00E-06,thiosulfate(2-)
+pac_m,SRR19820330,1.00E-06,phenylacetate
+4hbz_m,SRR19820330,0.806181812,4-hydroxybenzoate
+o2_m,SRR19820330,1.00E-06,O2
+btd_RR_m,SRR19820330,1.00E-06,R_R__2_3_Butanediol
+fuc_L_m,SRR19820330,1.00E-06,L-fucose
+phenol_m,SRR19820330,1.00E-06,Phenol
+isobut_m,SRR19820330,1.00E-06,"Isobutyrate, 2-Methylpropanoate"
+4hphac_m,SRR19820330,1.00E-06,4-hydroxyphenylacetate
+cit_m,SRR19820330,1.00E-06,Citrate
+4hoxpacd_m,SRR19820330,1.00E-06,(4-hydroxyphenyl)acetaldehyde
+isocapr_m,SRR19820330,1.00E-06,Isocaproate
+nac_m,SRR19820330,0.095623854,Nicotinate
+2obut_m,SRR19820330,1.00E-06,2-Oxobutanoate
+phpyr_m,SRR19820330,1.00E-06,keto-phenylpyruvate
+glcn_m,SRR19820330,1.00E-06,D-gluconate
+ttdca_m,SRR19820330,1.00E-06,tetradecanoate (n-C14:0)
+ribflv_m,SRR19820330,0.0813564,Riboflavin
+ch4s_m,SRR19820330,1.00E-06,Methanethiol
+ocdca_m,SRR19820330,1.00E-06,octadecanoate (n-C18:0)
+hdca_m,SRR19820330,1.00E-06,Hexadecanoate (n-C16:0)
+xan_m,SRR19820330,1.00E-06,Xanthine
+ppi_m,SRR19820330,0.000346748,Diphosphate
+2hyoxplac_m,SRR19820330,1.00E-06,2-Hydroxyphenylacetate
+isoval_m,SRR19820330,1.00E-06,"Isovalerate, 3-Methylbutanoate"
+hxan_m,SRR19820330,0.001433874,Hypoxanthine
+thymd_m,SRR19820330,1.00E-06,Thymidine
+apio_D_m,SRR19820330,1.00E-06,D-Apiose (rare sugar in rhamnogalacturonan II)
+acerA_m,SRR19820330,1.00E-06,Aceric acid (3-C-carboxy-5-deoxy-l-xylose) (rare sugar in rhamnogalacturonan II)
+kdo_m,SRR19820330,1.00E-06,3-Deoxy-D-manno-2-octulosonate
+3ddlhept_m,SRR19820330,1.00E-06,3-deoxy-d-lyxo-heptulosaric acid (rare sugar in rhamnogalacturonan II)
+2omfuc_m,SRR19820330,1.00E-06,2-o-methylfucose (rare sugar in rhamnogalacturonan II)
+2omxyl_m,SRR19820330,1.00E-06,2-O-methylxylose (rare sugar in rhamnogalacturonan II)
+h_m,SRR19820352,42.14561062,proton
+mqn8_m,SRR19820352,1.00E-06,Menaquinone 8
+h2s_m,SRR19820352,1.00E-06,Hydrogen sulfide
+so4_m,SRR19820352,8.455621829,sulfate
+co2_m,SRR19820352,1.00E-06,carbon dioxide
+tma_m,SRR19820352,1.00E-06,trimethylamine
+mqn7_m,SRR19820352,0.477418589,Menaquinone 7
+tmao_m,SRR19820352,14.39151658,Trimethylamine N-oxide
+ppa_m,SRR19820352,1.00E-06,propionate
+h2o_m,SRR19820352,1.00E-06,Water
+so3_m,SRR19820352,1.00E-06,Sulfite
+tsul_m,SRR19820352,2.97802545,thiosulfate(2-)
+pac_m,SRR19820352,1.00E-06,phenylacetate
+4hbz_m,SRR19820352,0.361868532,4-hydroxybenzoate
+o2_m,SRR19820352,1.00E-06,O2
+btd_RR_m,SRR19820352,1.00E-06,R_R__2_3_Butanediol
+fuc_L_m,SRR19820352,1.00E-06,L-fucose
+phenol_m,SRR19820352,1.00E-06,Phenol
+isobut_m,SRR19820352,1.00E-06,"Isobutyrate, 2-Methylpropanoate"
+4hphac_m,SRR19820352,1.00E-06,4-hydroxyphenylacetate
+cit_m,SRR19820352,1.00E-06,Citrate
+4hoxpacd_m,SRR19820352,0.067328733,(4-hydroxyphenyl)acetaldehyde
+isocapr_m,SRR19820352,1.00E-06,Isocaproate
+nac_m,SRR19820352,0.095409183,Nicotinate
+2obut_m,SRR19820352,0.245326507,2-Oxobutanoate
+phpyr_m,SRR19820352,0.303950182,keto-phenylpyruvate
+glcn_m,SRR19820352,1.00E-06,D-gluconate
+ttdca_m,SRR19820352,1.00E-06,tetradecanoate (n-C14:0)
+ribflv_m,SRR19820352,1.00E-06,Riboflavin
+ch4s_m,SRR19820352,1.00E-06,Methanethiol
+ocdca_m,SRR19820352,1.00E-06,octadecanoate (n-C18:0)
+hdca_m,SRR19820352,1.00E-06,Hexadecanoate (n-C16:0)
+xan_m,SRR19820352,1.00E-06,Xanthine
+ppi_m,SRR19820352,0.000241866,Diphosphate
+2hyoxplac_m,SRR19820352,1.00E-06,2-Hydroxyphenylacetate
+isoval_m,SRR19820352,1.00E-06,"Isovalerate, 3-Methylbutanoate"
+hxan_m,SRR19820352,1.00E-06,Hypoxanthine
+thymd_m,SRR19820352,0.000356089,Thymidine
+apio_D_m,SRR19820352,1.00E-06,D-Apiose (rare sugar in rhamnogalacturonan II)
+acerA_m,SRR19820352,1.00E-06,Aceric acid (3-C-carboxy-5-deoxy-l-xylose) (rare sugar in rhamnogalacturonan II)
+kdo_m,SRR19820352,1.00E-06,3-Deoxy-D-manno-2-octulosonate
+3ddlhept_m,SRR19820352,1.00E-06,3-deoxy-d-lyxo-heptulosaric acid (rare sugar in rhamnogalacturonan II)
+2omfuc_m,SRR19820352,1.00E-06,2-o-methylfucose (rare sugar in rhamnogalacturonan II)
+2omxyl_m,SRR19820352,1.00E-06,2-O-methylxylose (rare sugar in rhamnogalacturonan II)
